@@ -1,0 +1,27 @@
+name: tes_ordo_ui_engineer
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_svg: ^0.22.0
+  get: null
+  pixel_perfect: ^1.1.0
+  google_fonts: ^2.1.0
+  flutter_screenutil:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
