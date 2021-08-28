@@ -19,8 +19,8 @@ class SlideUp extends StatelessWidget {
       height: 760.h,
       width: 360.w,
       child: DraggableScrollableSheet(
-          initialChildSize: 0.22,
-          minChildSize: 0.22,
+          initialChildSize: 0.21,
+          minChildSize: 0.21,
           maxChildSize: 0.4,
           builder: (ctx, s) {
             return Container(
@@ -31,7 +31,7 @@ class SlideUp extends StatelessWidget {
                     BoxShadow(blurRadius: 2, color: Colors.grey)
                   ]),
               child: Container(
-                padding: EdgeInsets.only(top: 8.h),
+                padding: EdgeInsets.only(top: 8.h,),
                 child: Column(
                   children: [
                     Expanded(
@@ -184,7 +184,7 @@ class SlideUp extends StatelessWidget {
                                       ),
                                       Positioned(
                                         left: 65.w,
-                                        top: 72.3.h,
+                                        top: 73.h,
                                         child: Text(
                                           'Status',
                                           style: GoogleFonts.openSans(
@@ -245,7 +245,7 @@ class SlideUp extends StatelessWidget {
                                       borderRadius: BorderRadius.circular(32.5.r),
                                       boxShadow: [
                                         BoxShadow(
-                                          offset: Offset(0, 6),
+                                          offset: Offset(0, 4),
                                           blurRadius: 8,
                                           spreadRadius: 2,
                                           color: Colors.blueAccent.shade100.withOpacity(0.35),

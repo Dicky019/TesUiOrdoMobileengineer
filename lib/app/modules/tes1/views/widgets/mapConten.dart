@@ -236,7 +236,6 @@ class Maps extends StatelessWidget {
             right: 0,
             bottom: -05.h,
             child: NavBar(
-              // mainAxisAlignment: MainAxisAlignment.spaceBetween,
               listData: controller.navBarData,
             ),
           ),
