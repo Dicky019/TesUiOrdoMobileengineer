@@ -2,7 +2,7 @@
 
 App ini di buat untuk tes ui ORDO Mobile Developer.
 
-## TES ":"
+## TES
 
 1.Tes 1
 
