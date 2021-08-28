@@ -23,10 +23,16 @@ class Tes2View extends GetView<Tes2Controller> {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             AppBarCostum(
+              wordSpacing: null,
+              leterSpacing: 0.12,
               actionIcon: '$iconsPath/actionTes2.png',
               name: 'PORTFOLIO VENDOR',
               colorBack: controller.backAppbarColor,
               colorName: controller.nameAppbarColor,
+              marginAction: EdgeInsets.only(
+                top: 21.5.h,
+                bottom: 21.h,
+              ),
             ),
             SizedBox(height: 10.5.h),
             StatisticConten(),

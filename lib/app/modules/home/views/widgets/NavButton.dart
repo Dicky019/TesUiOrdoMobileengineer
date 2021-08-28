@@ -18,7 +18,7 @@ class NavButton extends StatelessWidget {
         primary: Colors.black,
         minimumSize: Size(305.w, 58.h),
         shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(24),
+          borderRadius: BorderRadius.circular(24.r),
         ),
       ),
       onPressed: ontap,
@@ -29,6 +29,7 @@ class NavButton extends StatelessWidget {
           fontWeight: FontWeight.w700,
           fontSize: 20.sp,
           height: 1.302,
+          
         ),
       ),
     );
