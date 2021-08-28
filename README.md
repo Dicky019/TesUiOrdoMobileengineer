@@ -1,16 +1,17 @@
 # tes_ordo_ui_engineer
 
-A new Flutter project.
+App ini di buat untuk tes ui ORDO Mobile Developer.
 
-## Getting Started
+## TES
 
-This project is a starting point for a Flutter application.
+1.Tes 1
 
-A few resources to get you started if this is your first Flutter project:
+![github-small](assets/images/Tes1.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1.Tes 2
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![github-small](assets/images/Tes2.jpg)
+
+1.Tes 3
+
+![github-small](assets/images/Tes3.jpg)
