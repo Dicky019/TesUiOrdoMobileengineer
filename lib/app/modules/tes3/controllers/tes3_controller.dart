@@ -4,7 +4,7 @@ import 'package:tes_ordo_ui_engineer/app/shared/assets.dart';
 
 class Tes3Controller extends GetxController {
 
-  final List<int> text = [4,5,5,17,17,18];
+  final List<int> text = [4,5,5,7,7,8];
   final textDisableColor = Color(0xff94AFB6);
   final textOrangeColor = Color(0xffFF9A00);
   final textIncomeColor = Color(0xff41BE06);

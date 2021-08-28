@@ -2,11 +2,11 @@
 
 App ini di buat untuk tes ui ORDO Mobile Developer.
 
-## TES ":"
+## TES
 
 1.Tes 1
 
-![github-small](assets/images/Tes1.jpg)
+![github-small](assets/images/Tes.jpg)
 
 1.Tes 2
 

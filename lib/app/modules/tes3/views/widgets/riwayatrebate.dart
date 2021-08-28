@@ -31,8 +31,8 @@ class RiwayatRebate extends StatelessWidget {
                 ),
               ),
               padding: EdgeInsets.symmetric(
-                horizontal: 6.w,
-                vertical: 6.h,
+                horizontal: 7.4.w,
+                vertical: 7.4.h,
               ),
               child: Image.asset(
                 '$iconsPath/biling.png',
