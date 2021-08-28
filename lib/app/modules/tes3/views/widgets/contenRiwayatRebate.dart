@@ -39,6 +39,9 @@ class ContenRiwayatRebate extends StatelessWidget {
           RiwayatRebate(),
           RiwayatRebate(),
           RiwayatRebate(),
+          SizedBox(
+            height: 30.h,
+          ),
         ],
       ),
     );
